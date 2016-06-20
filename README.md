@@ -1,7 +1,7 @@
 # Subtitle-Grabber
 A simple python script to download movies subtitle in English.
 
-### Usages:
+### Usage:
 Simply execute the python script and enter the movie name and voila! your movie subtitle is downloaded in "C:\subtitle_grabber\' directory.
 
 ###System Info:
